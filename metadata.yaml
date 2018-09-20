@@ -1,11 +1,14 @@
 _repo: Laakari-vastoin-tahtoansa-Kolminaytoksinen-komedia_52727
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le médecin malgré lui. Finnish
 contributor:
   translator:
     agent_name: Vilho, Oskari
     gutenberg_agent_id: '47021'
     url: http://www.gutenberg.org/2009/agents/47021
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -22,6 +25,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52727#Laakari-vastoin-tahtoansa-Kolminaytoksinen-komedia
 gutenberg_issued: '2016-08-05'
 gutenberg_type: Text
 identifiers:
