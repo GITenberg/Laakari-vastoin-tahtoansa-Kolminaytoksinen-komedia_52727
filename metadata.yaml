@@ -1,0 +1,42 @@
+_repo: Laakari-vastoin-tahtoansa-Kolminaytoksinen-komedia_52727
+_version: 0.0.1
+alternative_title: Le médecin malgré lui. Finnish
+contributor:
+  translator:
+    agent_name: Vilho, Oskari
+    gutenberg_agent_id: '47021'
+    url: http://www.gutenberg.org/2009/agents/47021
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Moliere
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2016-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52727'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Impostors and imposture -- Drama'
+- !lcsh 'Arranged marriage -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Physicians -- Drama'
+- !lcsh 'French drama -- 17th century -- Translations into Finnish'
+- GITenberg
+title: 'Lääkäri vastoin tahtoansa: Kolminäytöksinen komedia'
+url: http://www.gutenberg.org/ebooks/52727
